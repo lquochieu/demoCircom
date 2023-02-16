@@ -1,0 +1,15 @@
+{
+  "DoB": "20010825",
+  "currentDay": 16,
+  "currentMonth": 2,
+  "currentYear": 2023,
+  "minAge": 26,
+  "maxAge": 30,
+  "pubKey": [
+    "0x247fb74a2522435359fd14dddd4777901eaeaa238697b1f621e2296dced26ca9",
+    "0x29312493e14ec0daa3fc22648bee7f178938dbe556cbb51006b519c05a09f191"
+  ],
+  "R8x": "0x26aa8b39354bdae24c8a428c56c2f72204d5922a2eab037479463bc22432fa8",
+  "R8y": "0x29f02b00f29a2cd7c16e227803931850b56da965328e05cb989ed6794b6adb8a",
+  "S": "0x57f20efa8ef6fecd719a7ddc93db38f2be012fc8e277ff6aefa36806e551e2e"
+}
